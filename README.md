@@ -2,14 +2,6 @@
 
 A simple yet elegant Node.js web application showcasing fresh organic produce from Farm. This project demonstrates server-side rendering with dynamic content generation using vanilla HTML templates and a RESTful API.
 
-## Screenshots
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Product Page
-![Homepage](screenshots/product.png)
-
 ## 🌟 Features
 
 - **Product Catalog**: Browse through a variety of fresh fruits and vegetables
@@ -88,15 +80,3 @@ The server handles multiple routes:
 - Overview page with all products
 - Individual product pages with detailed information
 - API endpoint for JSON data access
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
----
-
-**Made with 💚 for fresh, organic produce!**
