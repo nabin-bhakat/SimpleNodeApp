@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Juicy Mangoes",
+    "image": "🥭",
+    "from": "India",
+    "nutrients": "Vitamin C, Vitamin A",
+    "quantity": "6 🥭",
+    "price": "250",
+    "organic": true,
+    "description": "A ripe mango is slightly soft to the touch with a fruity aroma near the stem. The fruit is known for its sweet, tropical flavor and fibrous or smooth texture depending on the variety. Mangoes are enjoyed fresh, in smoothies, chutneys, and desserts. High in antioxidants and vitamins, mangoes are often referred to as the 'king of fruits'. They are best consumed raw but can also be cooked into syrups or grilled for a caramelized treat."
+  },
+  {
+    "id": 1,
+    "productName": "Sweet Bananas",
+    "image": "🍌",
+    "from": "Kerala, India",
+    "nutrients": "Potassium, Vitamin B6",
+    "quantity": "7 🍌",
+    "price": "90",
+    "organic": true,
+    "description": "Bananas are one of the most widely consumed fruits in India, known for their natural sweetness and energy-boosting properties. They are typically yellow when ripe and soft inside, perfect for snacking, baking, or adding to smoothies. Grown across tropical regions like Kerala, bananas are rich in potassium and aid in digestion and heart health."
+  },
+  {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "55",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 3,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "130",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Fresh Spinach",
+    "image": "🥬",
+    "from": "Punjab, India",
+    "nutrients": "Iron, Vitamin A, Vitamin C",
+    "quantity": "1 bunch 🥬",
+    "price": "20",
+    "organic": false,
+    "description": "Spinach is a leafy green vegetable that thrives in the fertile soils of Punjab. Known for its slightly earthy taste and tender texture, it is a staple in Indian cuisine. Commonly used in dishes like 'palak paneer' and soups, spinach is rich in iron and essential vitamins, making it a healthy addition to daily meals."
+  }
+]
